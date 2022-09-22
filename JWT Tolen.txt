@@ -1,0 +1,9 @@
+Web Session 
+
+a b c 
+v a p
+  a b c >>>> v a p ==== Encoding
+		
+  v a p >>>> a b c ====Decoding 
+
+	
